@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--❤️ IT, House Music & Cinema
--💡 Interested in AI potential
--🌍 Care about the environment
+- ❤️ IT, House Music & Cinema
+- 💡 Interested in AI potential
+- 🌍 Care about the environment
