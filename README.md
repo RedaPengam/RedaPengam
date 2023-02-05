@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+-❤️ IT, House Music & Cinema
+-💡 Interested in AI potential
+-🌍 Care about the environment
