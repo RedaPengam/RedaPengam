@@ -1,4 +1,4 @@
-### 👋 Hi there
+### Hi there 👋
 
 <!--
 **RedaPengam/RedaPengam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ❤️ I love IT, House Music & Cinema
-- 💡 I'm interested in AI potential
-- 🌍 I Care about the environment
+❤️ I love IT, House Music & Cinema</br>
+💡 I'm interested in AI potential</br>
+🌍 I Care about the environment</br>
