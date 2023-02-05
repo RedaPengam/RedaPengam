@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❤️ I love IT, House Music & Cinema</br>
-💡 I'm interested in AI potential</br>
-🌍 I Care about the environment</br>
+❤️ I love IT, House Music & Cinema.</br>
+💡 I'm interested in AI potential.</br>
+🌍 I Care about the environment.</br>
