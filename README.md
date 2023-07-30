@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❤️ I love Physics, IT, [House Music](https://open.spotify.com/user/21bwbmnlaao7s4zp7zbgphtyy) & [Cinema](https://trakt.tv/users/pitiquill).</br>
+🔭 I love Physics, IT, [House Music](https://open.spotify.com/user/21bwbmnlaao7s4zp7zbgphtyy) & [Cinema](https://trakt.tv/users/pitiquill).</br>
 💡 I'm interested in AI potential.</br>
 🌍 And I care about our future.</br>
